@@ -1,0 +1,37 @@
+body {
+    background-color: #5875a6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-color: rgb(40, 87, 163);
+    color: #000000;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1em;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: underline;;
+}
+
+main {
+    padding: 2em;
+}
+
+p {
+    text-align: center;
+  }
+  
